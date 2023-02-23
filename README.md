@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Javascript, HTML, Phyton**
 
-- 💬 Ask me anything in [**Discord**](https://discord.gg/fwM4X6ctsD)
+- 💬 I regularly active on [**Discord**](https://discord.gg/fwM4X6ctsD)
 
 - 📫 How to reach me [**Email**](yogafajarfernanda11@gmail.com)
 
