@@ -8,6 +8,8 @@
 
 - 🔭 I am currently studying at [**Universitas Komputer Indonesia**](https://www.unikom.ac.id/)
 
+- 🏠 I am from **Bandung, Jawa Barat**
+
 - 🌱 I’m currently learning **Javascript, HTML, Phyton**
 
 - 💬 Ask me anything in [**Discord**](https://discord.gg/fwM4X6ctsD)
