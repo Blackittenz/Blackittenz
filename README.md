@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://cdn.discordapp.com/attachments/798543502119796736/1078367791847067779/moona2.gif)](https://discord.gg/fwM4X6ctsD)
 <h1 align="center">Hi 👋, I'm Yoga Fajar Fernanda</h1>
 <h3 align="center">Beginners in programming</h3>
 
