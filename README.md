@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackittenz&label=Profile%20views&color=0e75b6&style=flat" alt="blackittenz" /> </p>
 
+<img src="[animation1. gif](https://c.tenor.com/xIwtf_yTny8AAAAC/anime.gif)">
+
 <p align="left"> <a href="https://twitter.com/blackittenz" target="blank"><img src="https://img.shields.io/twitter/follow/blackittenz?logo=twitter&style=for-the-badge" alt="blackittenz" /></a> </p>
 
 - 🔭 I am currently studying at [Universitas Komputer Indonesia](https://www.unikom.ac.id/)
