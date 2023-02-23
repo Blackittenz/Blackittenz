@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/blackittenz" target="blank"><img src="https://img.shields.io/twitter/follow/blackittenz?logo=twitter&style=for-the-badge" alt="blackittenz" /></a> </p>
 
-- 🔭 I am currently studying at [Universitas Komputer Indonesia](https://www.unikom.ac.id/)
+- 🔭 I am currently studying at [**Universitas Komputer Indonesia**](https://www.unikom.ac.id/)
 
 - 🌱 I’m currently learning **Javascript, HTML, Phyton**
 
