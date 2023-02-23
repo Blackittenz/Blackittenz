@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Javascript, HTML, Phyton**
 
-- 💬 Ask me anything in [Discord](https://discord.gg/fwM4X6ctsD)
+- 💬 Ask me anything in [**Discord**](https://discord.gg/fwM4X6ctsD)
 
-- 📫 How to reach me [Email](yogafajarfernanda11@gmail.com)
+- 📫 How to reach me [**Email**](yogafajarfernanda11@gmail.com)
 
 - ⚡ Fun fact **Im noob in programming💀 (for now)**
 
