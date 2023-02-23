@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackittenz&label=Profile%20views&color=0e75b6&style=flat" alt="blackittenz" /> </p>
 
-
-
 <p align="left"> <a href="https://twitter.com/blackittenz" target="blank"><img src="https://img.shields.io/twitter/follow/blackittenz?logo=twitter&style=for-the-badge" alt="blackittenz" /></a> </p>
 
 - 🔭 I am currently studying at [Universitas Komputer Indonesia](https://www.unikom.ac.id/)
@@ -20,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/blackittenz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blackittenz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/blackitten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="blackitten" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@blackittenz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@blackittenz" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/fwM4X6ctsD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/fwM4X6ctsD" height="30" width="40" /></a>
 </p>
 
