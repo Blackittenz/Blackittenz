@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1075011006029381734/1078397089362485399/drift.gif)](https://discord.gg/fwM4X6ctsD)
+[![MasterHead](https://cdn.discordapp.com/attachments/1075011006029381734/1078398848256446504/ezgif.com-resize.gif)](https://discord.gg/fwM4X6ctsD)
 <h1 align="center">Hi 👋, I'm Yoga Fajar Fernanda</h1>
 <h3 align="center">Beginners in programming</h3>
 
