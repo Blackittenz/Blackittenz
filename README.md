@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Discord**
 
-- 📫 How to reach me **yogafajarfernanda11@gmail.com**
+- 📫 How to reach me [email](yogafajarfernanda11@gmail.com)
 
 - ⚡ Fun fact **Im noob in programming💀 (for now)**
 
