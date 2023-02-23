@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackittenz&label=Profile%20views&color=0e75b6&style=flat" alt="blackittenz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackittenz" alt="blackittenz" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/blackittenz" target="blank"><img src="https://img.shields.io/twitter/follow/blackittenz?logo=twitter&style=for-the-badge" alt="blackittenz" /></a> </p>
 
 - 🔭 I am currently studying at [Universitas Komputer Indonesia](https://www.unikom.ac.id/)
