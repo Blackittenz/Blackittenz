@@ -16,7 +16,7 @@
 
 - 📫 How to reach me [**Email**](yogafajarfernanda11@gmail.com)
 
-- ⚡ Fun fact **Im noob in programming💀 (for now, Bismillah)**
+- ⚡ Fun fact **Im noob in programming💀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
