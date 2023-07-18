@@ -10,7 +10,7 @@
 
 - 🏠 I am from **Bandung, Jawa Barat**
 
-- 🌱 I’m currently learning **Javascript, HTML, Phyton**
+- 🌱 I’m currently learning **Javascript, HTML, CSS**
 
 - 💬 I regularly active on [**Discord**](https://discord.gg/fwM4X6ctsD)
 
