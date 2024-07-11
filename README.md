@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1075011006029381734/1078398848256446504/ezgif.com-resize.gif)](https://discord.gg/fwM4X6ctsD)
+[![MasterHead]([https://cdn.discordapp.com/attachments/1075011006029381734/1078398848256446504/ezgif.com-resize.gif](https://cdn.discordapp.com/attachments/1149356625690361917/1260830092553355274/moona-hoshinova-blowing-a-kiss.gif?ex=6690bf07&is=668f6d87&hm=482764cdfa170e70d3bdc9c7445a4d203c61932c3368fea07fe1ca082991186a&))](https://discord.gg/fwM4X6ctsD)
 <h1 align="center">Hi 👋, I'm Yoga Fajar Fernanda</h1>
 <h3 align="center">Beginners in programming</h3>
 
